@@ -7,7 +7,7 @@ SOLab 2021 orientation homework : ten-bar truss optimization
   * ten_bar_truss.m is used for calculating for the specific radius of truss.
 * LaTex
   * Homework.pdf is the report of ten-bar truss optimization.
-  * Other files are used for making the Homework.pdf.
+  * Other files are used for making Homework.pdf.
 
 
 
